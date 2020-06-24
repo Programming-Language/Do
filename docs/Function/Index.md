@@ -29,7 +29,7 @@ end
 
 ### Preview
 ```do
-WithoutParam call print
+print call WithoutParam
 ```
 **Output**: 25
 
