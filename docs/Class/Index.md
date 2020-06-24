@@ -28,6 +28,6 @@ end
 ## Use
 ### Preview
 ```do
-  print call<Name> 'Dooda' say
+  print call <Name> 'Dooda' say
 ```
 **Output**: Hello Dooda!
