@@ -1,20 +1,21 @@
 # Function
 A: pre-2020-06-X
+- **similar** [Λ Lamda](Lamda.md)
 - **see**: [Class](../Class/Index.md)
-- **similar**: [Class Method](../Class/Method.md)
+  - **similar**: [Class Method](../Class/Method.md)
 
 ## Define
 
 ### Preview
 ```do
-WithoutParam ->
+def WithoutParam ->
   do
     + 5 20
   return
 ```
 
 ```do
-WithParam ->
+def WithParam ->
   param
     One<String> 5..600
     Two<Integer> 18..?
