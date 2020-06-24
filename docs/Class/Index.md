@@ -4,7 +4,7 @@ A: pre-2020-06-X
 ## Define
 ### Preview
 ```do
-def <Name>
+<Name> is
   create
     main
   export
