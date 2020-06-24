@@ -1,7 +1,7 @@
 # Built-in Type
 - [Custom](../Custom.md)
 
-## List
+## Content
 - String
 - Number
 - List
