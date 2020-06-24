@@ -1,6 +1,6 @@
 # Function
 A: pre-2020-06-X
-- **similar** [Λ Lamda](Lamda.md)
+- **similar** [Lamda](Lamda.md)
 - **see**: [Class](../Class/Index.md)
   - **similar**: [Class Method](../Class/Method.md)
 
