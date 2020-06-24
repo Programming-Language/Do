@@ -1,5 +1,7 @@
 # Function
 A: pre-2020-06-X
+- [Back](../Index.md)
+- **see**: [Built-in](Built-in/Index.md)
 - **similar** [Lambda](Lambda.md)
 - **similar**: [Class Method](../Class/Method.md)
   - **see**: [Class](../Class/Index.md)
