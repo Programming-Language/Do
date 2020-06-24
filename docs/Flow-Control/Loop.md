@@ -1,4 +1,4 @@
-# Flow Control: Loops
+# Flow Control: Loop
 _(comming soon)_
 
 ## Preview
