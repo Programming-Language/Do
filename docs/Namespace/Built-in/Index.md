@@ -2,5 +2,5 @@
 - [Custom](Namespace/Custom.md)
 
 ## List
-- [Do]()
+- [Do](Namespace/Built-in/Do.md)
 - _(comming soon)_
