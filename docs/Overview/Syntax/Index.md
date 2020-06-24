@@ -17,7 +17,7 @@ Line -/
 #### Documentation
 ##### Syntax, flat
 ```do
-doc
+doc About my project :)
   Your documentation about this file.
   Its functions, classes, types, etc.
 done
