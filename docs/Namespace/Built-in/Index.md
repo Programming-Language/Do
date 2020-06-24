@@ -1,4 +1,4 @@
-# Built-in Namespaces
+# Built-in Namespace
 - [Custom](Namespace/Custom.md)
 
 ## List
