@@ -1,8 +1,9 @@
 # Function
 A: pre-2020-06-X
 - **similar** [Lambda](Lambda.md)
-- **see**: [Class](../Class/Index.md)
-  - **similar**: [Class Method](../Class/Method.md)
+- **similar**: [Class Method](../Class/Method.md)
+  - **see**: [Class](../Class/Index.md)
+  
 
 ## Define
 
