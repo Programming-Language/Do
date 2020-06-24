@@ -1,5 +1,5 @@
 # Custom Type
-- **see**: [Built-in](Type/Built-in/Index.md)
+- **see**: [Built-in](Built-in/Index.md)
 
 ## Define
 _(comming soon)_
