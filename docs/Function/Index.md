@@ -18,7 +18,7 @@ def WithoutParam ->
 def WithParam ->
   param
     One<String> 5..600
-    Two<Integer> 18..?
+    Two<Integer> 10..?
   do
     One, + Two 10
   return
