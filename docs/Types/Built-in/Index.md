@@ -1,5 +1,5 @@
 # Built-in Type
-- [Custom](/Type/Custom.md)
+- [Custom](../Custom.md)
 
 ## List
 - String
