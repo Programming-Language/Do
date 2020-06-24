@@ -11,14 +11,14 @@ A: pre-2020-06-X
 
 ### Preview
 ```do
-def WithoutParam ->
+WithoutParam ->
   do
     + 5 20
   return
 ```
 
 ```do
-def WithParam ->
+WithParam ->
   param
     One<String> 5..600
     Two<Integer> 10..?
