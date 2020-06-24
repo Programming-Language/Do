@@ -1,2 +1,2 @@
 # Class Method
-- **see**: (Class)[Index.md]
+- **see**: [Class](Index.md)
