@@ -3,7 +3,7 @@ _(comming soon)_
 
 ## Preview
 ```
-loop a
+a loop
   ...
 end
 ```
