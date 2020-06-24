@@ -1,6 +1,6 @@
 # Built-in Namespace
-- [Custom](Namespace/Custom.md)
+- [Custom](../Custom.md)
 
 ## List
-- [Do](Namespace/Built-in/Do.md)
+- [Do](Do/Index.md)
 - _(comming soon)_
