@@ -1,2 +1,4 @@
 # Do
-[Show Docs](https://programming-language.github.io/Do/Index)
+- Downloads
+  - _none_
+- [Show Docs](https://programming-language.github.io/Do/docs/Index.md)
