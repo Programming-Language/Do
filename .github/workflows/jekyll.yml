@@ -1,16 +1,12 @@
 name: Jekyll site CI
-
 on:
   push:
     branches: [ pre-2020-06 ]
   pull_request:
     branches: [ pre-2020-06 ]
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
